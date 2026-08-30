@@ -1,0 +1,7 @@
+Rule based agent koj ke ja zgolemuva sumata spored odredeno pravilo. sega ova e implementirano so LLM seuste.
+
+Artiklite da se dodede poveke informacii preku koja ke go napravi state-ot na samata aukcija ne samo preku cena i vrednost.
+
+Q-learning agent, da vidime kako ke go trenirame.
+
+DQN agent isto da vidime kako ke go trenirame
